@@ -26,3 +26,7 @@ Khởi tạo console app
 dotnet new console
 ```
 
+Run source code
+```
+dotnet run .\Program.cs
+```
